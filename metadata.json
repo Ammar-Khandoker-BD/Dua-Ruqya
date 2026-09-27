@@ -1,0 +1,6 @@
+{
+  "name": "Dua & Ruqyah",
+  "description": "Comprehensive Islamic Dua, Azkar, and Ruqyah Shariah in Bangla, English, and Arabic. Developed By Ammar Khandoker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
